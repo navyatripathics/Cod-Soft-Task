@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+  }
+  
+  .bg-black {
+    background-color: black;
+    width:338px;
+    border-radius: 14px;
+    padding: 5px;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .items-center{
+    align-items: center;
+  }
